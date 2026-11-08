@@ -319,4 +319,4 @@ plt.close()
 # ==============================================================================
 # FOOTER
 # ==============================================================================
-st.caption("Proyek Analisis Data - Dicoding 'Belajar Analisis Data dengan Python' © 2026 Gian Abi Firdaus")
+st.caption("Proyek Analisis Data - Dicoding 'Belajar Fundamental Analisis Data' © 2026 Gian Abi Firdaus")
