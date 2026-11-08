@@ -1,9 +1,8 @@
 # Proyek Analisis Data: E-Commerce Public Dataset (Olist)
 
-Submission akhir untuk kelas **Belajar Analisis Data dengan Python** - Dicoding Indonesia.
+Submission akhir untuk kelas **Belajar Fundamental Analisis Data** - Dicoding Indonesia.
 
 - **Nama:** Gian Abi Firdaus
-- **Email:** gianabifirdaus14@gmail.com
 - **ID Dicoding:** gianabif14
 
 ---
@@ -67,3 +66,6 @@ Jalankan perintah berikut:
 streamlit run dashboard/dashboard.py
 ```
 Aplikasi dashboard akan terbuka secara otomatis di browser Anda pada alamat `http://localhost:8501`.
+
+### 5. Url Ke Streamlit Cloud
+https://d6zbgvvxcapqshwbcp6tc4.streamlit.app/
